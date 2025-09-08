@@ -5,8 +5,8 @@ set -e
 echo "Starting server setup..."
 
 # Store the values
-export setup_name="Raoul Grouls"
-export setup_email="Raoul.Grouls@han.nl"
+export setup_name="Callistus Offor"
+export setup_email="CC.Offor@student.han.nl"
 
 # Install basic dependencies
 echo "Installing basic dependencies..."
